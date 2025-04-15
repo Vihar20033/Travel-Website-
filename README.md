@@ -1,4 +1,4 @@
-# 🌍 Travel Website ✈️🚗🏨
+# 🌍 ExploreEase ✈️🚗🏨
 
 A fully functional travel website designed to help users **plan**, **book**, and **manage** their travel experiences with ease.  
 This platform offers flight bookings ✈️, hotel reservations 🏨, car rentals 🚗, tour packages 🏝️, and much more — all in one place!
